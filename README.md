@@ -12,7 +12,7 @@ Encriptación de contraseñas
 
 ### Clonar el siguiente repositorio:
 
-[Link del repo]
+[https://github.com/Camii-Nieto/-CAM-Back.git]
 
 ### Descargar dependencias
 
